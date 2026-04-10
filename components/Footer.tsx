@@ -30,6 +30,9 @@ export default function Footer() {
               <a href="https://buscafornecedor.app" target="_blank" rel="noopener noreferrer" style={{ color: "#94a3b8", textDecoration: "none", fontSize: "0.9rem" }}>BuscaFornecedor.app</a>
               <Link href="/parceiros" style={{ color: "#94a3b8", textDecoration: "none", fontSize: "0.9rem" }}>Seja um Parceiro</Link>
               <Link href="/sobre" style={{ color: "#94a3b8", textDecoration: "none", fontSize: "0.9rem" }}>Sobre</Link>
+              <Link href="/contato" style={{ color: "#94a3b8", textDecoration: "none", fontSize: "0.9rem" }}>Contato</Link>
+              <Link href="/privacidade" style={{ color: "#94a3b8", textDecoration: "none", fontSize: "0.9rem" }}>Privacidade</Link>
+              <Link href="/termos" style={{ color: "#94a3b8", textDecoration: "none", fontSize: "0.9rem" }}>Termos de Uso</Link>
             </div>
           </div>
         </div>
